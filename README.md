@@ -7,9 +7,6 @@
 # Demo
 * [Live Website](https://cbernadotte.github.io/Password-Generator/)
 
-# Local Host
-![](https://github.com/cbernadotte/Password-Generator)
-
 # Author
 * [Github](https://github.com/cbernadotte)
 * [LinkedIn](https://www.linkedin.com/in/claudine-bernadotte-614b38152)
